@@ -1,0 +1,17 @@
+
+    ====== Personal Finance Analysis Report ======
+    
+    Key Metrics:
+    - Total Spending: Rs. 141,309.0
+    
+    Top Spending Categories:
+    - Badminton: Rs. 73,200.0 (51.8%)
+- Shopping: Rs. 32,870.0 (23.3%)
+- Food: Rs. 30,219.0 (21.4%)
+
+    Monthly Spending Range:
+    - 95% Confidence Interval: Rs. 8069.17 - Rs. 15482.33
+    
+Unusual Expenses (Outliers):
+- 2024-01-27: Shopping via Credit - Rs. 5,800.0
+- 2024-10-01: Shopping via Credit - Rs. 12,900.0
